@@ -1,6 +1,8 @@
 # module9_project
 
-click the index.rmd and it will shows all instructions.
+Click the index.rmd and it will shows all instructions.
 
-Alternatively the shiny program is here : https://jkklim.shinyapps.io/casino
+Rpub: http://rpubs.com/jkklim/118559 
+
+Shiny: https://jkklim.shinyapps.io/casino
 
